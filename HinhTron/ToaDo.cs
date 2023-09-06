@@ -35,8 +35,6 @@ namespace HinhTron
             this.y = y;
             this.ten = ten;
         }
-        public ToaDo()
-        { }
         
     }
 }

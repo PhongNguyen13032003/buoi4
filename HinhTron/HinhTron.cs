@@ -17,6 +17,8 @@ namespace HinhTron
             set { tam = value; }
         }
 
+        
+
         public double BanKinh
         {
             get { return banKinh; }
@@ -31,16 +33,17 @@ namespace HinhTron
         {
             return 3.14 * banKinh * banKinh;
         }
-        public HinhTron(double banKinh)
+        public HinhTron(double banKinh,ToaDo tam)
         {
+            
             this.banKinh = banKinh;
-            this.tam = Tam;
+            this.tam = tam;
         }
-        public HinhTron()
-        {}
+       
+        
         public void xuat()
         {
-            Console.WriteLine("Hinh Tron co Tam {0}({1},{2}, co ban kinh la {3}, chu vi va dien tich lan luot la {4}, {5}) ", tam.Ten, +tam.X, +tam.Y, +banKinh, +tinhChuVi(), +tinhDienTich());
+            Console.WriteLine("Hinh Tron co Tam O({0},{1}) co ban kinh la {2}, co Chu Vi va Dien Tich lan luot la {3}, {4} ", +tam.X, +tam.Y, +banKinh, +tinhChuVi(), +tinhDienTich());
            
         }
     }

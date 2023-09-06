@@ -1,2 +1,6 @@
 E:\LuuDuLieuSinhVien\2033212285-NguyenNhuPhong\bai7\HinhTron\HinhTron\bin\Debug\HinhTron.exe.config
 E:\LuuDuLieuSinhVien\2033212285-NguyenNhuPhong\bai7\HinhTron\HinhTron\obj\Debug\HinhTron.csprojResolveAssemblyReference.cache
+E:\LuuDuLieuSinhVien\2033212285-NguyenNhuPhong\bai7\HinhTron\HinhTron\bin\Debug\HinhTron.exe
+E:\LuuDuLieuSinhVien\2033212285-NguyenNhuPhong\bai7\HinhTron\HinhTron\bin\Debug\HinhTron.pdb
+E:\LuuDuLieuSinhVien\2033212285-NguyenNhuPhong\bai7\HinhTron\HinhTron\obj\Debug\HinhTron.exe
+E:\LuuDuLieuSinhVien\2033212285-NguyenNhuPhong\bai7\HinhTron\HinhTron\obj\Debug\HinhTron.pdb
